@@ -5,7 +5,7 @@ HELP.md
 build/
 
 ### STS ###
-.apt_generated
+.apt_generatedgit stas
 .classpath
 .factorypath
 .project
